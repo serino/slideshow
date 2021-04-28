@@ -1,0 +1,18 @@
+* {
+box-sizing: border-box;
+}
+
+#image {
+  height: 171px;
+  width: 300px;
+  border: solid;
+}
+
+#slider {
+  width: 660px;
+}
+
+.year {
+  width: 100px;
+  display: inline-block;
+}
